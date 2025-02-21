@@ -15,7 +15,7 @@ I believe in continuous learning and have a keen interest in Artificial Intellig
 - Node.js, Express.js, MongoDB, DBMS
 
 ### Tools & Technologies
-- Git, GitHub, AI
+- Git, GitHub, AI, Adobe Photoshop
 
 ### Soft Skills
 - Analytical Thinking, Problem Solving, Leadership, Team Collaboration, Adaptability
