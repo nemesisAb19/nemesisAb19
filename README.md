@@ -1,4 +1,4 @@
-# Hey there! 👋, I'm Abhijit Kumar Bose
+# Hey there! 👋,                         I'm Abhijit Kumar Bose
 ## About Me
 I am a passionate Full-Stack Developer and I enjoy building scalable applications and solving complex problems. With experience in Python, Java, C++, MERN Stack, and AI, I love working on innovative projects that enhance user experiences.
 
